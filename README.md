@@ -1,1 +1,1 @@
-# python2 SAMP-DDOS.py (ip) (port)
+# python2 SAMP-DDOS.py (139.99.112.219) (7777)
